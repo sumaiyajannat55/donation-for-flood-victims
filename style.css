@@ -28,6 +28,7 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
+
 }
 
 
@@ -40,6 +41,7 @@ h2 {
 
 .donate-area {
     margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 #donation-div,
@@ -47,6 +49,7 @@ h2 {
 #update-div {
     width: 550px;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .taka {
